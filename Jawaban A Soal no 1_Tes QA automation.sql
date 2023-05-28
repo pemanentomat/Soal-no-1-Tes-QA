@@ -1,0 +1,1 @@
+select * from tbl_employee where emp_name = 'Budi' and emp_status = 'P'
